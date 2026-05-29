@@ -30,12 +30,12 @@ pyramid = objects.Pyramid(0,0.25,0,0.5,0.65)
 # Isohedron -> 12 point sphere - ish
 # size is between 0 and 1
 # positions are between -1 and 1
-Isohedron = 0
+Isohedron = 0 # Not made yet
 
 # Cylinder -> 16 point cylinder
 # size / height is between 0 and 1
 # positions are between -1 and 1
-cylinder = 0
+cylinder = 0 # Not made yet
 
 # Custom model
 # load a wavefont or obj

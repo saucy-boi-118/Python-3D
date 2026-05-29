@@ -13,3 +13,4 @@ I am by no means an expert in python or 3D / Graphics Programming so my explanat
 I might make this into useable python library with more features like cylinder, spheres, isohedrons, and custom models. I also might create this project in Golang for speed. 
 
 # Example Output
+![image](https://github.com/saucy-boi-118/Python-3D/blob/main/Screenshot%202026-05-29%20121905.png)
